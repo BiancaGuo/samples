@@ -18,5 +18,25 @@
     <ClCompile Include="ui.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="LinkList.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="auto_fly.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="LinkList.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ui.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="auto_fly.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="resource.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
